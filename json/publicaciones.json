@@ -101,5 +101,27 @@
         "decisión",
         "planificación"
     ]
+},
+    {
+    "id": 1793039614744,
+    "title": "CONCUSSION",
+    "author": "Corina C. Munteanu",
+    "category": "recomendaciones",
+    "date": "2026-10-26",
+    "readTime": "5 min",
+    "imageUrl": "https://neuropsycare.github.io/assets/images/concussion.pelicula.png.png",
+    "innerImage": "https://neuropsycare.github.io/assets/images/concussion.pelicula.png.png",
+    "excerpt": "¿Qué puede estar ocurriendo cuando ex-futbolistas de la NFL sanos, con una vida asentada y una carrera deportiva reconocida comienzan a tener comportamientos extraños e incluso a acabar con sus vidas? Descúbrelo!",
+    "content": "122 minutos, 201. \nDirector: Peter Landesman\n\n*¿Qué puede estar ocurriendo cuando ex-futbolistas de la NFL sanos, con una vida asentada y una carrera deportiva reconocida comienzan a tener comportamientos extraños e incluso a acabar con sus vidas? ¿Están sus cerebros deteriorándose antes de lo esperado? ¿Es el deporte causante de ello?*  \n\nTras la muerte de un atleta retirado sano, el Dr. Bennet Omalu (interpretado por Will Smith), realiza la autopsia forense y encuentra un deterioro muy grave en la estructura anatómica de su cerebro. Tras analizar esta muestra, ver otros jugadores con sintomatología depresiva, demenciosa e incluso con ideación e intento suicida y observar los patrones de golpes y movimientos intracraneales agresivos que sufren los jugadores de fútbol americano, el Dr. Omalu llega a una conclusión que complicará su carrera:\n\nLos golpes repetidos en la cabeza en jugadores de fútbol americano pueden provocar una enfermedad neurodegenerativa precoz de la que nadie ha advertido a los deportistas y sus familias. \n\nAcuña el término de *Encefalopatía Traumática Crónica (ETC)*, siendo este un trastorno del cerebro que provoca una acumulación anormal de la proteína TAU, daña el tejido nervioso sano y destruye células nerviosas con el tiempo. Es debido a conmociones cerebrales leves o graves e incluso por golpes reiterados en la cabeza. La sintomatología que se presenta puede ser muy variada presentando alteraciones en la memoria, dificultad para pensar con claridad y problemas de equilibrio e incluso agresividad, violencia e inestabilidad emocional. \n\nLa dificultad de realizar un diagnóstico es que este solo puede hacerse en un examen *post mortem* (autopsia) del tejido cerebral, lo que hace más difícil tratar la sintomatología con el paciente en vida o no confundirlo con otras patologías. \n\nEn esta película podemos ver el debate moral y social entre exponer la verdad científica que afecta a la calidad de vida de las personas y cómo la industria del fútbol no estaba interesada en hacer pública esa información por motivos económicos y de imagen. La dedicación y las dificultades raciales por las que pasó el Dr. Omalu se ven perfectamente reflejadas en el papel que hace Will Smith. \n\nEs una película muy interesante para observar las consecuencias de algo que parecía inofensivo y entretenido como es el deporte y cómo la sintomatología pasa desapercibida o se confunde con trastornos psiquiátricos sin tener en cuenta una posible base orgánica. Recomiendo esta película para futuros profesionales de la salud, ya que nos permite ver más allá y mejorar en la identificación de diagnósticos y la atención a los pacientes.",
+    "bibliography": "Landesman, P. (Director). (2015). *Concussion* [Película]. Columbia Pictures; LStar Capital; The Cantillon Company.",
+    "tags": [
+        "DCA",
+        "neurociencia",
+        "comportamiento",
+        "deporte",
+        "ética",
+        "cerebro",
+        "deterioro cognitivo"
+    ]
 }
 ]
