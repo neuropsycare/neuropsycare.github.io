@@ -145,5 +145,24 @@
         "neurociencia",
         "psicología"
     ]
+},
+    {
+    "id": 1795542784027,
+    "title": "¿Dónde están las llaves?",
+    "author": "Corina C. Munteanu",
+    "category": "recomendaciones",
+    "date": "2026-11-24",
+    "readTime": "3 min",
+    "imageUrl": "https://neuropsycare.github.io/assets/images/dondestanlasllaves.png",
+    "innerImage": "https://neuropsycare.github.io/assets/images/dondestanlasllaves.png",
+    "excerpt": "Nuestro cerebro también puede fallar de forma sana creando efectos muy interesantes e incluso divertidos, este libro nos cuenta cómo y por qué...",
+    "content": "Todos hemos perdido las llaves, hemos “olvidado” una palabra básica de nuestro vocabulario que parecía no querer salir o nos ha parecido escuchar que nos llamaban incluso estando solos. Todos, en algún momento de nuestras vidas, hemos cuestionado el funcionamiento de nuestro cerebro en el día a día. Hemos tenido dudas sobre si ese fenómeno es “normal”, nos hemos propuesto dormir más para estar más despejados y evitar esos fallos, o nos hemos planteado que quizá algo está pasando más allá de un simple despiste y debemos consultar a un profesional. \n\nTenemos muchos estímulos que atender y tareas que realizar. Al igual que un ordenador, nuestro cerebro también puede fallar de forma sana creando efectos muy interesantes e incluso divertidos. El funcionamiento de nuestro cerebro, tan complejo e hiperconectado, puede fallar de vez en cuando especialmente si añadimos variables como el insomnio, bajo estado de ánimo, ruido, otras distracciones e incluso el hambre. \n\nDesde la perspectiva de la neuropsicología clínica y la investigación de enfermedades neurodegenerativas, Saúl Martínez-Horta nos presenta los fenómenos cotidianos que le ocurren a nuestro cerebro en su obra: *¿Dónde están las llaves?*\n\nEste libro nos propone un viaje por situaciones cotidianas que pueden ser divertidas o incluso espeluznantes para contarnos cómo funciona el cerebro humano. Descubrimos que la memoria puede fallarnos de múltiples formas desde olvidar dónde hemos puesto las llaves hasta llegar a creer cierto un recuerdo que nunca tuvimos, que los fenómenos aparentemente paranormales pueden explicarse por fallos en la percepción e incluso cómo explica la neurociencia y la neuropsicología las experiencias extracorpóreas. A través de casos clínicos y  estudios científicos, Saúl Martínez-Horta nos adentra en lo que conocemos sobre el cerebro y deja la puerta entreabierta a nuevas preguntas que la ciencia aún no puede responder de forma concluyente. \n\nEs un libro con un notable valor divulgativo y educativo con el que podemos entender la diferencia entre lo patológico y los fenómenos propios de un cerebro sano en su vida cotidiana. \n\nCAPÍTULOS FAVORITOS:\n\n*Capítulo 5.* ¡Yo ya he vivido esto!\n*Capítulo 11.* Otras visiones complejas\n*Capítulo 21.* Sofá, peli y manta o viaje mochilero al Everest",
+    "bibliography": "Martínez-Horta, S. (2023). ¿Dónde están las llaves? Neuropsicología de la vida cotidiana. GeoPlaneta.",
+    "tags": [
+        "#libro",
+        "#neuropsicología",
+        "#divulgación",
+        "#cerebro"
+    ]
 }
 ]
